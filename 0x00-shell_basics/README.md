@@ -1,2 +1,1 @@
-list content of  dir
-going home
+going back to home to users directory
