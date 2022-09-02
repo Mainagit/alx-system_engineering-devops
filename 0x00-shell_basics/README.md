@@ -1,1 +1,1 @@
-printing a working dir
+list content of  dir
